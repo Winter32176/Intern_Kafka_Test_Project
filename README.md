@@ -1,0 +1,1 @@
+# Intern_Kafka_Test_Project

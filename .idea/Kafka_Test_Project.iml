@@ -21,5 +21,8 @@
     <orderEntry type="library" name="Gradle: jakarta.validation:jakarta.validation-api:3.1.1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-web:7.0.8" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-beans:7.0.8" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:7.0.8" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka-clients:4.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-commons:4.1.0" level="project" />
   </component>
 </module>
